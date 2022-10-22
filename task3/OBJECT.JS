@@ -9,7 +9,7 @@ for (var i in u){
 document.write(i,u[i]);
 }
 
-var gokul={
+var surya={
     Name:"T.JAYASURYA",
     DOB: "20.11.2001",
     E_mail: "t.jayasurya2001b.com@gmail.com",
@@ -22,6 +22,6 @@ var gokul={
     Hobbies: "Gaming,Listening Music",
 
 };
-console.log(JSON.stringify(gokul));
+console.log(JSON.stringify(surya));
 
-document.write(JSON.stringify(gokul));
+document.write(JSON.stringify(surya));
